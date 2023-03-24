@@ -15,3 +15,5 @@ public class Lab2ex2 {
 		System.out.println("10.0 meters="+ String.format("%.3f",total)+ "feet");
 		}
 }
+//Norhamidatul Hairiyah binti hairee
+//210847
